@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @JakeCarter
+- 👀 I make computers do stuff.
